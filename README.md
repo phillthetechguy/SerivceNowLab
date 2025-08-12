@@ -12,7 +12,7 @@ This project consists of me setting up a developer instance in ServiceNow to pra
 - <b>ServiceNow</b> 
 
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
 Sign up and ensure instance is online with Admin role assigned: <br/>
