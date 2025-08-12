@@ -31,15 +31,15 @@ This what the main overview screen should look like:  <br/>
 <img src="https://i.imgur.com/LvW07K3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-From there we would go and create a new ticket since one isn't assigned:  <br/>
+From there we would go to incident and create a new ticket since one isn't assigned:  <br/>
 <img src="https://i.imgur.com/rsZzyrb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Now that its created open the incident and assign it to ourselves with updated notes:  <br/>
+Now that its created open the incident and assign it to ourselves while also updating notes:  <br/>
 <img src="https://i.imgur.com/MLW7Lll.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-If issue is fixed we resolve the ticket by adding a resolution note and changing state to resolved:  <br/>
+If issue is solved, we resolve the ticket by adding a resolution note and changing state to resolved:  <br/>
 <img src="https://i.imgur.com/NxnA7Ya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -47,8 +47,8 @@ Once complete, to close ticket out ensure notes are documented correctly and cha
 <img src="https://i.imgur.com/IS68hZZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Once closed ticket should show up as "closed incident" on dashboard :  <br/>
-
+Once closed, ticket should show up as "closed incident" on dashboard :  <br/>
+<img src="https://i.imgur.com/gElqxvb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
