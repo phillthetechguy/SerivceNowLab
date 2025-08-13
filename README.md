@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project consists of me setting up a developer instance in ServiceNow to practice receiving, assigning, updating and resolving tickets. I have used a common troubleshooting issue to simulate a real world scenario such as "user not able to access email" while also keeping work notes updated and ensuring everything is properly documented. This documents every step i took from start to finish of not only setting up the instance account itself but also each step i took in creating and resolving this ticket. To complete this lab you will need a servicenow dev account.
+This project consists of me setting up a developer instance in ServiceNow to practice receiving, assigning, updating and resolving tickets. I have used a common troubleshooting issue to simulate a real world scenario such as "user not able to access email" while also keeping work notes updated and ensuring everything is properly documented. This documents every step i took from start to finish of not only setting up the instance account itself but also each step i took in creating and resolving this ticket.
 <br />
 
 
