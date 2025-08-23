@@ -16,7 +16,7 @@ This project consists of me setting up a developer instance in ServiceNow to pra
 
 <p align="center">
 Sign up and ensure instance is online with Admin role assigned: <br/>
-<img src="https://i.imgur.com/yQhKIoB.png" height="80%" width="80%" alt="ServiceNow Steps"/>
+<img src="https://i.imgur.com/A4eAyyH.png" height="80%" width="80%" alt="ServiceNow Steps"/>
 <br />
 <br />
 If Admin role is not showing navigate to "change user role" to switch roles :  <br/>
