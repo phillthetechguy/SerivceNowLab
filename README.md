@@ -43,7 +43,7 @@ Now that it's created open the incident (would be in contact with user at this p
 <img width="80%" height="80%" alt="p5" src="https://github.com/user-attachments/assets/1581c03b-7336-4bc5-b421-e74a28816eda" /><br />
 <br />
 Once issue is resolved, to close ticket set state to resolved and add resolution notes then hit resolve button:  <br/>
-<img width="1903" height="926" alt="p6" src="https://github.com/user-attachments/assets/fb4dbf9a-9980-4fc9-a982-4edc82f0ccc4" />
+<img width="80%" height="80%" alt="p6" src="https://github.com/user-attachments/assets/fb4dbf9a-9980-4fc9-a982-4edc82f0ccc4" />
 <br />
 <br />
 Once resolved to close out ticket, reopen the incident and hit the close incident button :  <br/>
