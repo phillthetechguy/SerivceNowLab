@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project consists of me setting up a developer instance in ServiceNow to practice receiving, assigning, updating and resolving tickets. I have used a common troubleshooting issue to simulate a real world scenario such as "user not able to access email" while also keeping work notes updated and ensuring everything is properly documented. This documents every step i took from start to finish of not only setting up the instance account itself but also each step i took in creating and resolving this ticket.
+This project consists of me setting up a developer instance in ServiceNow to practice receiving, assigning, updating and resolving tickets. I have used a common troubleshooting issue to simulate a real world scenario such as "user not able to receive emails" while also keeping work notes updated and ensuring everything is properly documented. This documents every step i took from start to finish of not only setting up the instance account itself but also each step i took in creating and resolving this ticket.
 <br />
 
 
@@ -12,7 +12,17 @@ This project consists of me setting up a developer instance in ServiceNow to pra
 - <b>ServiceNow</b> 
 
 
-<h2>Lab walk-through:</h2>
+<h2>Video walk-through:</h2>
+
+Below is the video of me walking through the lifecycle of a ticket while also updating it to our knowledge base for future issues:
+
+https://github.com/user-attachments/assets/5dc53cf0-c1ce-412e-b802-ccc78faf189d
+
+
+
+<h2>Screenshot walk-through:</h2>
+
+
 
 <p align="center">
 Sign up and ensure instance is online with Admin role assigned: <br/>
