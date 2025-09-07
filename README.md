@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/5dc53cf0-c1ce-412e-b802-ccc78faf189d
 
 <p align="center">
 Sign up and ensure instance is online with Admin role assigned: <br/>
-<img src="https://i.imgur.com/A4eAyyH.png" height="80%" width="80%" alt="ServiceNow Steps"/>
+<img width="80%" height="80%" alt="new" src="https://github.com/user-attachments/assets/56d38a4f-5d85-46ac-a2da-8c4e00e03af8" />
 <br />
 <br />
 This what the main overview screen should look like:  <br/>
